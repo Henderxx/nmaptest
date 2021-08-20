@@ -1,14 +1,13 @@
 {
   "name": "nmaptest",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "simple aplication to test libnmap with port scanning ",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "henio",
+  "scripts": {},
+  "author": "Henderxx",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.2",
     "libnmap": "^0.4.19"
   }
 }
